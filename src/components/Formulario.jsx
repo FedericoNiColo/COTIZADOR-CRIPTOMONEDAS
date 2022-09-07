@@ -32,7 +32,7 @@ text-transform: uppercase;
 
 const monedas = [
     { id: 'USD', nombre: 'Dolar de Estados Unidos' },
-    { id: 'MXN', nombre: 'Peso Mexicano' },
+    { id: 'ARG', nombre: 'Peso Argentino' },
     { id: 'USD', nombre: 'Euro' },
     { id: 'GBP', nombre: 'Libra Esternila' },
 ]
